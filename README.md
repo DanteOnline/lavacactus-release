@@ -1,6 +1,6 @@
 # This is Your project README.md created by LavaCactus
 
-## Main usage
+## Main usage 1
 
 You can change your site with django templates. After that just `build` to create static pages
 
